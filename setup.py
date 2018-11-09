@@ -3,11 +3,11 @@ from setuptools import setup
 
 setup(
     name='wideq',
-    version='0.0.0',
+    version='0.0.1',
     description='LG SmartThinQ API client',
-    author='Adrian Sampson',
-    author_email='adrian@radbox.org',
-    url='https://github.com/sampsyo/wideq',
+    author='Per-Arne Hellarvik',
+    author_email='duckboot@gmail.com',
+    url='https://github.com/phellarv/wideq',
     license='MIT',
     platforms='ALL',
     install_requires=['requests'],
